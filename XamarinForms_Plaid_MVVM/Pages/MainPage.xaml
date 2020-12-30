@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="XamarinForms_Plaid_MVVM.Pages.MainPage"
+             xmlns:behaviors="clr-namespace:XamarinForms_Plaid_MVVM.Behaviors"
+             xmlns:converters="clr-namespace:XamarinForms_Plaid_MVVM.Converters">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:WebNavigatingEventArgsConverter x:Key="WebNavigatingEventArgsConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <WebView x:Name="webView" Source="{Binding Source, Mode=TwoWay}">
+            <WebView.Behaviors>
+                <behaviors:EventToCommandBehavior
+                    EventName="Navigating"
+                    EventArgsConverter="{StaticResource WebNavigatingEventArgsConverter}"
+                    Command="{Binding NavigatingCommand}"/>
+            </WebView.Behaviors>
+        </WebView>
+    </ContentPage.Content>
+</ContentPage>

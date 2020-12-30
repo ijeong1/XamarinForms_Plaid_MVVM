@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{38B2F387-7011-4D24-B742-452EAC6F388A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinForms_Plaid_MVVM/PageModels/MainPageModel.cs">
+    <Files>
+      <File FileName="XamarinForms_Plaid_MVVM/PageModels/MainPageModel.cs" Line="31" Column="33" />
+      <File FileName="XamarinForms_Plaid_MVVM/Converters/WebNavigatingEventArgsConverter.cs" Line="15" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinForms_Plaid_MVVM" expanded="True" selected="True">
+            <Node name="XamarinForms_Plaid_MVVM" expanded="True">
+              <Node name="Behaviors" expanded="True" />
+              <Node name="Converters" expanded="True" />
+              <Node name="PageModels" expanded="True">
+                <Node name="Base" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="MainPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="XamarinForms_Plaid_MVVM.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="XamarinForms_Plaid_MVVM.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamarinForms__Plaid__MVVM.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_3a_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.XamarinForms__Plaid__MVVM.iOS automaticSigning="False" TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8DAA6CCB-407B-49D9-8454-5D4619E8FF3E" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
