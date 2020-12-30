@@ -35,3 +35,5 @@ Add the following flag to your iOS build option
 ```
 ![BuildOption](https://github.com/ijeong1/Plaid-Link-XamarinForms/blob/master/BuildOption.png)
 
+# If you like my code/solution, you can buy my coffee :)
+> [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=G3F8F88VVYKRY&currency_code=USD&source=url)
