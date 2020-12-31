@@ -36,4 +36,4 @@ Add the following flag to your iOS build option
 ![BuildOption](https://github.com/ijeong1/Plaid-Link-XamarinForms/blob/master/BuildOption.png)
 
 # If you like my code, buy me a cup of coffee :)
-> [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=G3F8F88VVYKRY&currency_code=USD&source=url)
+<a href="https://www.buymeacoffee.com/IlnamJeong" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
